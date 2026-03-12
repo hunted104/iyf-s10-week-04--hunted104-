@@ -1,1 +1,11 @@
-# iyf-s10-week-04--hunted104-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JS Practice</title>
+</head>
+<body>
+    <h1>Check the console!</h1>
+    <script src="main.js"></script>
+</body>
+</html>
