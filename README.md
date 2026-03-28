@@ -1,9 +1,9 @@
-# Week {3}: {Project Title}
+# Week {4}: {js-fundamentals}
 
 ## Author
 - **Name:** Ian mutugi
 - **GitHub:** [@hunted104](https://github.com/hunted104)
-- **Date:** Feb ,23, 2026
+- **Date:** March ,23, 2026
 
 ## Project Description
 Brief description of what you built and why.
