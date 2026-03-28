@@ -6,7 +6,7 @@
 - **Date:** March ,23, 2026
 
 ## Project Description
-Brief description of what you built and why.
+The main agender for the project was to  practice on the implication of JS in the coding activity.
 
 ## Technologies Used
 - HTML5
