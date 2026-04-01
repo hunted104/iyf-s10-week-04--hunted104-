@@ -40,6 +40,7 @@ I learned to apply various javascript codes for a complete project activity
 how to create a fizzbazz game
 ## Challenges Faced
 I underwent the challange of applying various codes and their different functionalities byt faced it by seeking assistance from my peers
+Calculating averages in the grade tracker: Used Object.values() combined with reduce() to dynamically sum grades regardless of how many subjects a student has
 
 ## Screenshots (optional)
 
