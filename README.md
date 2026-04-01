@@ -37,6 +37,7 @@ Daily challenges: FizzBuzz, reverse string, largest number, remove duplicates, p
 
 ## Lessons Learned
 I learned to apply various javascript codes for a complete project activity
+how to create a fizzbazz game
 ## Challenges Faced
 I underwent the challange of applying various codes and their different functionalities byt faced it by seeking assistance from my peers
 
