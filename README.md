@@ -30,7 +30,8 @@ Daily challenges: FizzBuzz, reverse string, largest number, remove duplicates, p
 
 ## How to Run
 1. Clone this repository
-2. Open `index.html` in your browser
+2. git clone https://github.com/hunted104/iyf-s10-week-04-hunted104.git
+3. Open `index.html` in your browser
    OR
    Run `npm install` then `npm start`
 
